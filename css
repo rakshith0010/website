@@ -1,0 +1,4 @@
+.required-asterisk::after { 
+  content: " *"; 
+  color: #ef4444; 
+}
